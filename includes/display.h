@@ -13,3 +13,4 @@ void mainDisplay(int numberOfIteration, double temperature, double newX, double 
 void resultDisplay(double xMin, double fMix);
 
 #endif //LAB3_DISPLAY_H
+

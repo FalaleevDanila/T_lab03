@@ -1,4 +1,4 @@
-C:\Users\danf2\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6262.62\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=D:/MinGWx64/mingw32/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" D:\New_Folder\Tsisa\lab3
+C:\Users\danf2\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.5233.103\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=D:/MinGWx64/mingw32/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" D:\New_Folder\Tsisa\lab3
 -- The C compiler identification is GNU 7.2.0
 -- The CXX compiler identification is GNU 7.2.0
 -- Check for working C compiler: D:/MinGWx64/mingw32/bin/gcc.exe

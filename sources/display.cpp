@@ -34,3 +34,4 @@ void mainDisplay(int numberOfIteration, double temperature, double newX, double 
 void resultDisplay(double xMin, double fMin){
     std::cout << std::endl <<" Result: Xmin = "<< xMin << " Fmin " << fMin << std::endl << std::endl;
 }
+
